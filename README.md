@@ -34,7 +34,7 @@ I’m currently learning Java and Spring Boot by building a [Spring Boot Registr
 - `PostgreSql` `MongoDB` `Mongoose`  
 - `Git` `Github`
   
- ## Technical Experience
+ ## Technical Education
 
 #### **[Makers Academy](https://makers.tech/)**, London UK (Jan — May 2022)
 #### Skills & Successes:
@@ -52,23 +52,13 @@ I’m currently learning Java and Spring Boot by building a [Spring Boot Registr
   
 ### Additional Technical Courses and Certificates 
   
-  [Code With Mosh](https://codewithmosh.com/) 
-  |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------|--------------------------|
-  |[Git](https://codewithmosh.com/p/the-ultimate-git-course) & [Django](https://codewithmosh.com/p/the-ultimate-django-series)                                                                                |Git fundamentals and advanced commands; Secure RESTful API’s with Django & Django-Rest-Framework         |October - December 2021   |
-  |                                                                                                                                                                                                           |
-  |[HTML - CSS](https://codewithmosh.com/p/the-ultimate-html-css), [JavaScript](https://codewithmosh.com/p/javascript-basics-for-beginners) & [NodeJs](https://codewithmosh.com/p/the-complete-node-js-course)| Mobile-friendly websites, Asynchronous Programming,  OOP & RESTful APIs with Node,  Express and MongoDB | April - September 2021   |
-  |[Java](https://codewithmosh.com/p/the-ultimate-java-mastery-series                                                                                                                                         | Fundamentals, OOP Techniques, Advanced Concepts, Fundamentals, OOP Techniques, Advanced Concepts        | January - March 2021     |
-  
-
-[Coursera](https://www.coursera.org/)** (October - November 2020)
-  
-  | [Python](https://www.coursera.org/specializations/python) |
-
-
-- [Python](https://www.coursera.org/specializations/python)
-  - Fundamentals | [Course Certificate](https://coursera.org/share/65fd03391201226046a6a9e9a6fcb306) </br>
-  - Data Structures | [Course Certificate](https://coursera.org/share/e740172916f20689fb452226ad247c30)
-
+  | [Code With Mosh](https://codewithmosh.com/)                                                                                                                                                                |                                                                                                                                                                                 |                        |
+  |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+  | [Git](https://codewithmosh.com/p/the-ultimate-git-course) & [Django](https://codewithmosh.com/p/the-ultimate-django-series)                                                                                | Git fundamentals and advanced commands; Secure RESTful API’s with Django & Django-Rest-Framework                                                                                | October - December 2021|                                                                                                                                   |
+  | [HTML - CSS](https://codewithmosh.com/p/the-ultimate-html-css), [JavaScript](https://codewithmosh.com/p/javascript-basics-for-beginners) & [NodeJs](https://codewithmosh.com/p/the-complete-node-js-course)| Mobile-friendly websites, Asynchronous Programming,  OOP & RESTful APIs with Node,  Express and MongoDB                                                                         | April - September 2021 |
+  | [Java](https://codewithmosh.com/p/the-ultimate-java-mastery-series)                                                                                                                                        | Fundamentals, OOP Techniques, Advanced Concepts, Fundamentals, OOP Techniques, Advanced Concepts                                                                                | January - March 2021   |
+  |[Coursera: Python](https://www.coursera.org/specializations/python)                                                                                                                                         | [Data Structures](https://coursera.org/share/e740172916f20689fb452226ad247c30), [Fundamentals](https://coursera.org/share/65fd03391201226046a6a9e9a6fcb306)  |October - November 2020 |                                                                                                    | October - November 2020  |                    |
+ 
 
 
 ### Transferable Skills
@@ -90,40 +80,25 @@ Completing a final group project at Makers requires a commitment to teamwork, co
 I am curious by nature and my sharp spirit of observation coupled with my goal focused approach has supported me in achieveing the following successes:
   
 * After arriving in the UK 19 years, I progressed quickly from retail assistant to managing my own stock department in the UK. 
-* I became fluent in Italian after meeting my Italian wife.
+* I became fluent in Italian after meeting my Italian wife. I am also fluent in English and Romanian.
 * I used lockdown to teach myself to code. I undertook multiple self-teaching courses consisting of different programming languages such as Javascript, Java, and Python in order to understand the frameworks and concepts of front-end & back-end development.
 * In two weeks and in a team of four, I created a MERN (MongoDB, Express, React and NodeJS) stack website that allows users to choose and customise their workouts. I was able to quickly adapt and encrypt the password storage to the database, and implement the user authentication and registration.
 
   
-
-
-
-
- 
-
-## Education
-
-
-
-#### **Technical College / Romania**  (SEP 2010 — JUL 2014)
-
-_Tourism & Hospitality Management_
-
-- Obtained the national grades in the following subjects: 
-  - English | Maths | Science | Information Technology | History & Geography
-
 ## Work Experience
 
-**Harrods Clinique(Estée Lauder) Department** (Dec 2017 — Jan 2022)
+**Harrods Clinique(Estée Lauder) Department** | Dec 2017 — Jan 2022
 
-_Stock Coordinator (Team Leader)_
+_Stock Coordinator & Team Leader _
 
- - Assisted the standard of merchandising to ensure appropriate presentation of products 
- - Communicated with the team to better organise stock management 
- - Conducted a weekly review procedure to value the stock correctly
- - Assisted with the placing of orders and ensured requested goods were delivered on time
+ - Managed a team of twelve staff across six locations including Harrods, John Lewis Oxford Street and Peter Jones.
+ - Created and maintained a stock control system to maintain a stock accuracy of 96%.
+ - Oversaw visual merchandising according to Head Office layout requirements. 
+ - Maintaining high levels of stock organisation to track product and ensure all staff could allocate stock quickly and efficiently. 
+ - Building relationships with organisational buyers
+-  Sales and customer service when required to provide high-end customer experience. 
 
-**Asda** (SEP 2016 — DEC 2017)
+**Asda | SEP 2016 — DEC 2017
 
 _Customer Service_
 
@@ -131,6 +106,17 @@ _Customer Service_
 - Managed and organized a team of four to maintain the standard of the workload
 - Received deliveries of products and distributed them to the team as well as assisted with customer complaints and enquiry
 
+  
+## Education
+
+
+
+#### **Technical College / Romania**  (SEP 2010 — JUL 2014)
+_Tourism & Hospitality Management_
+
+- Obtained the national grades in the following subjects: 
+  - English | Maths | Science | Information Technology | History & Geography
+  
 
 ## Interests & Activities
 
