@@ -91,7 +91,7 @@ I am curious by nature and my sharp spirit of observation coupled with my goal f
 
 
  - Managed a team of twelve staff across six locations including Harrods, John Lewis Oxford Street and Peter Jones.
- - Created and maintained a stock control system to maintain a stock accuracy of 96%.
+ - Created and maintained a stock control system to maintain a stock accuracy of 97%.
  - Oversaw visual merchandising according to Head Office layout requirements. 
  - Maintaining high levels of stock organisation to track product and ensure all staff could allocate stock quickly and efficiently. 
  - Building relationships with organisational buyers
