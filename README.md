@@ -9,7 +9,7 @@
 
 Hi, I'm Samuel! 
   
-I've wanted to work in tech ever since I discovered gaming growing up in Romania and moved to the UK when I was 19 to follow my ambition to study software engineering. After teaching myself the basics of Python, Java and HTML, it was time for a more structured approach and I joined [Makers Academy](https://makers.tech/). I thrive in people-oriented environments and have funded my journey with a career in stock operations, management and high-end retail which has given me the confidence and skill to built rapport quickly, lead and collaborate in diverse environments while retaining a client-centric mindset.
+I've wanted to work in tech ever since I discovered gaming growing up in Romania and moved to the UK when I was 19 to follow my ambition to study software engineering. After teaching myself the basics of Python, Java and HTML, it was time for a more structured approach and I joined [Makers Academy](https://makers.tech/). I thrive in people-oriented environments and have funded my journey with a career in stock operations, management and high-end retail which has given me the confidence and skill to build rapport quickly, lead and collaborate in diverse environments while retaining a client-centric mindset.
 
 I’m currently learning Java and Spring Boot by building a [Spring Boot Registration System](https://github.com/samuelmbp/java-springboot-registration-system) but I'm a operations-oriented problem solver at heart, excited to collaborate and grow in any challenging technical environment.
   
@@ -36,7 +36,7 @@ I’m currently learning Java and Spring Boot by building a [Spring Boot Registr
   
  ## Technical Education
 
-#### **[Makers Academy](https://makers.tech/)**, London UK (Jan — May 2022)
+#### **[Makers Academy](https://makers.tech/)**, London UK | Jan — May 2022
 #### Skills & Successes:
 <!-- - Coded with high attention to detail by following principles such as Test Driven Development, Object-Oriented Programming, Model View Controller design patterns, and SOLID principles to create simple, clear and well-tested code
 - Collaborated and communicated effectively with the team using agile principles such as pair programming, XP values, code reviewing, daily stand-ups, retros, CI/CD, Git workflow and sprint planning.
@@ -65,24 +65,24 @@ I’m currently learning Java and Spring Boot by building a [Spring Boot Registr
 
 #### Solutions Focussed 
   
-I joined Estee Lauder to manage their stock in various stores including Harrods. The previous manager had maintained only a 50% accuracy in stock control losing the company tens of thousands of pounds each year. In the first three months, I had increased the accuracy of the stock by 15% and within the four years of my employment the accuracy of the stock had risen to 97%. I achieved this success by getting to each store early every day to personally check inventories and meticulously training staff to maintain this standards when I was not at the store. At the end of my tenure I managed a team of twelve who were able to offer a higher level customer experience as a result of well-managed stock. In addition, the brand was able to make better operational decisions about the profitability of the business.
+I joined Estee Lauder to manage their stock in various stores including Harrods. The previous manager had maintained only a 50% accuracy in stock control losing the company tens of thousands of pounds each year. In the first three months, I had increased the accuracy of the stock by 15% and within the four years of my employment the accuracy of the stock had risen to 97%. I achieved this success by getting to each store early every day to personally check inventories and meticulously training staff to maintain this standard when I was not at the store. At the end of my tenure, I managed a team of twelve who were able to offer a higher level customer experience as a result of well-managed stock. In addition, the brand was able to make better operational decisions about the profitability of the business.
 
-This systematic mindset to solve problems supported me at makers. During the [Acebook](https://github.com/samuelmbp/Acebook-nacho-libro) project at Makers Academy, our group experienced challenges implementing encrypted password storage to the database. To solve this problem, I researched, identified, and implemented an encryption method (BCrypt) that was capable of working with our project. To ensure members of the group did not run into this challenge in the future, I also shared this knowledge with the team and demonstrated how it works.
+This systematic mindset to solve problems supported me at makers. During the [Acebook](https://github.com/samuelmbp/Acebook-nacho-libro) project at Makers Academy, our group experienced challenges implementing encrypted password storage to the database. To solve this problem, I researched, identified, and implemented an encryption method (BCrypt) that worked. To ensure members of the group did not run into this challenge in the future, I also shared this knowledge with the team and demonstrated its functionality.
   
 #### Teamwork Above Individual Success
 
-Completing a final group project at Makers requires a commitment to teamwork, communication, and building ways to work together within a high-pressure scenario in order to achieve a common goal. It was important to me that our team not only created an MVP we felt proud of but achieved this in a collaborative environment with trust, respect and opportunities to learn from each other. As an example, our project required password encryption which was a feature I’d researched and implemented in a previous project. I elected not to work on this so another member of the team could learn a new skill but when help was required, I worked to coach and guide my colleague through the process. We celebrated our wins along the way and in two weeks had not only created a multi-page fitness app using the MERN stack but felt a genuine,  close collabarotive bond as a team which for me was an equal success.
+Completing a final group project at Makers requires a commitment to teamwork, communication, and building ways to work together within a high-pressure scenario in order to achieve a common goal. It was important to me that our team not only created an MVP we felt proud of but achieved this in a collaborative environment with trust, respect and opportunities to learn from each other. As an example, our project required password encryption which was a feature I’d researched and implemented in a previous project. I elected not to work on this so another member of the team could learn a new skill but when help was required, I worked to coach and guide my colleague through the process. We celebrated our wins along the way and in two weeks had not only created a multi-page fitness app using the MERN stack but felt a genuine, close and collaborative bond as a team which for me was an equal success.
 
 
 
 #### Fast and Driven Learner
 
-I am curious by nature and my sharp spirit of observation coupled with my goal focused approach has supported me in achieveing the following successes:
+I am curious by nature and my sharp spirit of observation coupled with my goal focused approach has supported me in the following successes:
   
-* After arriving in the UK 19 years, I progressed quickly from retail assistant to managing my own stock department in the UK. 
+* After arriving in the UK age 19, I progressed quickly from retail assistant to managing my own stock department for several branches of Clinique.
 * I became fluent in Italian after meeting my Italian wife. I am also fluent in English and Romanian.
-* I used lockdown to teach myself to code. I undertook multiple self-teaching courses consisting of different programming languages such as Javascript, Java, and Python in order to understand the frameworks and concepts of front-end & back-end development.
-* In two weeks and in a team of four, I created a MERN (MongoDB, Express, React and NodeJS) stack website that allows users to choose and customise their workouts. I was able to quickly adapt and encrypt the password storage to the database, and implement the user authentication and registration.
+* I used lockdown to teach myself to code. I undertook multiple self-teaching courses consisting of different programming languages such as JavaScript, Java, and Python in order to understand the frameworks and concepts of front-end & back-end development.
+* In two weeks and in a team of four, I created a MERN (MongoDB, Express, React and NodeJS) stack website that allows users to choose and customise their workouts. I was able to quickly adapt and encrypt the password storage to the database and implement the user authentication and registration.
 
   
 ## Work Experience
