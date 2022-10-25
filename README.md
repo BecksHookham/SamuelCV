@@ -87,9 +87,9 @@ I am curious by nature and my sharp spirit of observation coupled with my goal f
   
 ## Work Experience
 
-**Harrods Clinique(Estée Lauder) Department** | Dec 2017 — Jan 2022
+#### Stock Coordinator & Team Leader | Harrods Clinique (for Estée Lauder)  | Dec 2017 — Jan 2022
 
-_Stock Coordinator & Team Leader _
+_ _
 
  - Managed a team of twelve staff across six locations including Harrods, John Lewis Oxford Street and Peter Jones.
  - Created and maintained a stock control system to maintain a stock accuracy of 96%.
@@ -98,9 +98,7 @@ _Stock Coordinator & Team Leader _
  - Building relationships with organisational buyers
 -  Sales and customer service when required to provide high-end customer experience. 
 
-**Asda | SEP 2016 — DEC 2017
-
-_Customer Service_
+#### Customer Service | ASDA | SEP 2016 — DEC 2017
 
 - Arranged and aesthetically displayed the product
 - Managed and organized a team of four to maintain the standard of the workload
@@ -109,13 +107,10 @@ _Customer Service_
   
 ## Education
 
+#### Technical College / Romania  (SEP 2010 — JUL 2014)
+_Tourism & Hospitality Management
 
-
-#### **Technical College / Romania**  (SEP 2010 — JUL 2014)
-_Tourism & Hospitality Management_
-
-- Obtained the national grades in the following subjects: 
-  - English | Maths | Science | Information Technology | History & Geography
+Including: English | Maths | Science | Information Technology | History & Geography
   
 
 ## Interests & Activities
