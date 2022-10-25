@@ -107,8 +107,7 @@ _ _
   
 ## Education
 
-#### Technical College / Romania  (SEP 2010 — JUL 2014)
-_Tourism & Hospitality Management
+#### Tourism & Hospitality Management | Technical College, Romania |  SEP 2010 — JUL 2014
 
 Including: English | Maths | Science | Information Technology | History & Geography
   
