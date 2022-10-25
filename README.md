@@ -9,7 +9,7 @@
 
 Hi, I'm Samuel! 
   
-I've wanted to work in tech ever since I discovered gaming growing up in Romania and moved to the UK when I was 19 to follow my ambition to study software engineering. After teaching myself the basics of Python, Java and HTML, it was time for a more structured approach and I joined [Makers Academy](https://makers.tech/). I thrive in people-oriented environments and have funded my journey with a career in stock operations, management and high-end retail which has given me the confidence and skill to build rapport quickly, lead and collaborate in diverse environments while retaining a client-centric mindset.
+I've wanted to work in tech ever since I discovered gaming growing up in Romania. I moved to the UK when I was 19 to follow my ambition to study software engineering. After teaching myself the basics of Python, Java and HTML, it was time for a more structured approach and I joined [Makers Academy](https://makers.tech/). I thrive in people-oriented environments and have funded my journey with a career in stock operations, management and high-end retail which has given me the confidence and skill to build rapport quickly, lead and collaborate in diverse environments while retaining a client-centric mindset.
 
 I’m currently learning Java and Spring Boot by building a [Spring Boot Registration System](https://github.com/samuelmbp/java-springboot-registration-system) but I'm a operations-oriented problem solver at heart, excited to collaborate and grow in any challenging technical environment.
   
