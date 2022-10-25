@@ -37,7 +37,7 @@ I’m currently learning Java and Spring Boot by building a [Spring Boot Registr
  ## Technical Experience
 
 #### **[Makers Academy](https://makers.tech/)**, London UK (Jan — May 2022)
-#### Responsibilities:
+#### Skills & Successes:
 <!-- - Coded with high attention to detail by following principles such as Test Driven Development, Object-Oriented Programming, Model View Controller design patterns, and SOLID principles to create simple, clear and well-tested code
 - Collaborated and communicated effectively with the team using agile principles such as pair programming, XP values, code reviewing, daily stand-ups, retros, CI/CD, Git workflow and sprint planning.
 - Implemented a methodical approach to the workload to identify project requirements, create user stories, define MVP features, and adopted strategies of time management to keep projects on schedule
@@ -48,14 +48,30 @@ I’m currently learning Java and Spring Boot by building a [Spring Boot Registr
 - Assisted fellow team members during stand-ups and pair programming
 - Demonstrated leadership skills during daily stand-ups when working on group projects
 - Received and gave feedback using code reviews during group projects and pair programming
-- Solved and researched a variety of problems during weekly projects and weekend challenges.
-
-
   
   
-## Skills
+### Additional Technical Courses and Certificates 
+  
+  [Code With Mosh](https://codewithmosh.com/) 
+  |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------|--------------------------|
+  |[Git](https://codewithmosh.com/p/the-ultimate-git-course) & [Django](https://codewithmosh.com/p/the-ultimate-django-series)                                                                                |Git fundamentals and advanced commands; Secure RESTful API’s with Django & Django-Rest-Framework         |October - December 2021   |
+  |                                                                                                                                                                                                           |
+  |[HTML - CSS](https://codewithmosh.com/p/the-ultimate-html-css), [JavaScript](https://codewithmosh.com/p/javascript-basics-for-beginners) & [NodeJs](https://codewithmosh.com/p/the-complete-node-js-course)| Mobile-friendly websites, Asynchronous Programming,  OOP & RESTful APIs with Node,  Express and MongoDB | April - September 2021   |
+  |[Java](https://codewithmosh.com/p/the-ultimate-java-mastery-series                                                                                                                                         | Fundamentals, OOP Techniques, Advanced Concepts, Fundamentals, OOP Techniques, Advanced Concepts        | January - March 2021     |
+  
 
-### Soft Skills
+[Coursera](https://www.coursera.org/)** (October - November 2020)
+  
+  | [Python](https://www.coursera.org/specializations/python) |
+
+
+- [Python](https://www.coursera.org/specializations/python)
+  - Fundamentals | [Course Certificate](https://coursera.org/share/65fd03391201226046a6a9e9a6fcb306) </br>
+  - Data Structures | [Course Certificate](https://coursera.org/share/e740172916f20689fb452226ad247c30)
+
+
+
+### Transferable Skills
 
 #### Solutions Focussed 
   
@@ -87,9 +103,6 @@ I am curious by nature and my sharp spirit of observation coupled with my goal f
 
 ## Education
 
-#### **[Makers Academy](https://makers.tech/)**, London UK (Jan — May 2022)
-
-_Full-time software development bootcamp_
 
 
 #### **Technical College / Romania**  (SEP 2010 — JUL 2014)
@@ -98,24 +111,6 @@ _Tourism & Hospitality Management_
 
 - Obtained the national grades in the following subjects: 
   - English | Maths | Science | Information Technology | History & Geography
-
-### Certificates
-#### **[Code With Mosh](https://codewithmosh.com/)**
-- [Git](https://codewithmosh.com/p/the-ultimate-git-course) & [Django](https://codewithmosh.com/p/the-ultimate-django-series) (October - December 2021) </br>
-  - Git fundamentals and advanced commands  
-  - Secure RESTful API’s with Django & Django-Rest-Framework  
-
-- [HTML - CSS](https://codewithmosh.com/p/the-ultimate-html-css), [JavaScript](https://codewithmosh.com/p/javascript-basics-for-beginners) & [NodeJs](https://codewithmosh.com/p/the-complete-node-js-course) (April - September 2021) </br>
-  - Mobile-friendly websites, Asynchronous Programming,  OOP & RESTful APIs with Node,  Express and MongoDB
-
-- [Java](https://codewithmosh.com/p/the-ultimate-java-mastery-series) (January - March 2021) </br>
-  - Fundamentals, OOP Techniques, Advanced Concepts 
-
-#### **[Coursera](https://www.coursera.org/)** (October - November 2020)
-
-- [Python](https://www.coursera.org/specializations/python)
-  - Fundamentals | [Course Certificate](https://coursera.org/share/65fd03391201226046a6a9e9a6fcb306) </br>
-  - Data Structures | [Course Certificate](https://coursera.org/share/e740172916f20689fb452226ad247c30)
 
 ## Work Experience
 
